@@ -1,0 +1,23 @@
+{
+    "category": "Sensor",
+    "inputs": 1, 
+    "name": "nRFTemperature", 
+    "parameters": [
+
+    ], 
+    "outputs": 1, 
+    "labels": {
+        "input": ["Trigger"], 
+        "output": ["Temperature"]
+    }, 
+    "schematic_pins": {
+        "inputs": [
+            1
+        ], 
+        "outputs": [
+            2
+        ]
+    }, 
+    "repository": "https://github.com/nblocksStudioNodes/nblocks_nrftemperature", 
+    "revision": ""
+}
